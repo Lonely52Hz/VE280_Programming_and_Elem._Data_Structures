@@ -1,0 +1,5 @@
+﻿  Lab2Demo.cpp
+D:\学习\SJTU\2019-2020  SUMMER\数据结构\Lab\Lab2\Lab2Demo\Lab2Demo.cpp(59,19): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\学习\SJTU\2019-2020  SUMMER\数据结构\Lab\Lab2\Lab2Demo\Lab2Demo.cpp(60,27): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\学习\SJTU\2019-2020  SUMMER\数据结构\Lab\Lab2\Lab2Demo\Lab2Demo.cpp(61,20): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  Lab2Demo.vcxproj -> D:\学习\SJTU\2019-2020  SUMMER\数据结构\Lab\Lab2\Lab2Demo\Debug\Lab2Demo.exe

@@ -1,0 +1,3 @@
+﻿  binaryTree.cpp
+D:\学习\SJTU\2019-2020  SUMMER\数据结构\Project\Project4\Project4Demo\binaryTree.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Project4Demo.vcxproj -> D:\学习\SJTU\2019-2020  SUMMER\数据结构\Project\Project4\Project4Demo\Debug\Project4Demo.exe

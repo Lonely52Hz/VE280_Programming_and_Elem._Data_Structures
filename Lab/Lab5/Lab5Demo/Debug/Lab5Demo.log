@@ -1,0 +1,11 @@
+﻿  standardForm.cpp
+D:\学习\SJTU\2019-2020  SUMMER\数据结构\Lab\Lab5\Lab5Demo\standardForm.cpp(20,14): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+D:\学习\SJTU\2019-2020  SUMMER\数据结构\Lab\Lab5\Lab5Demo\standardForm.cpp(24,14): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+D:\学习\SJTU\2019-2020  SUMMER\数据结构\Lab\Lab5\Lab5Demo\standardForm.cpp(29,38): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+D:\学习\SJTU\2019-2020  SUMMER\数据结构\Lab\Lab5\Lab5Demo\standardForm.cpp(41,46): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\学习\SJTU\2019-2020  SUMMER\数据结构\Lab\Lab5\Lab5Demo\standardForm.cpp(42,46): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\学习\SJTU\2019-2020  SUMMER\数据结构\Lab\Lab5\Lab5Demo\standardForm.cpp(59,32): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\学习\SJTU\2019-2020  SUMMER\数据结构\Lab\Lab5\Lab5Demo\standardForm.cpp(67,32): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\学习\SJTU\2019-2020  SUMMER\数据结构\Lab\Lab5\Lab5Demo\standardForm.cpp(68,39): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\学习\SJTU\2019-2020  SUMMER\数据结构\Lab\Lab5\Lab5Demo\standardForm.cpp(69,42): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  Lab5Demo.vcxproj -> D:\学习\SJTU\2019-2020  SUMMER\数据结构\Lab\Lab5\Lab5Demo\Debug\Lab5Demo.exe
